@@ -1,0 +1,10 @@
+{
+  "name": "geofront-online",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GeoFront — интерактивная карта фронта: офлайн и онлайн",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  }
+}
